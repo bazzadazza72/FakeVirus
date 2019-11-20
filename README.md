@@ -73,7 +73,3 @@ This value can be ommitted (left without a value).
 CustomTempDir - Specifies a different temporary directory for downloaded files during installation. (defualt is C:\FV\Temp)
 (0 = use default directory)
 This value can be ommitted (left without a value).
-
-GuiBackgroundColor - Specfiies a seperate background color (default is white)
-(0 = default color; 1 = red; 2 = yellow; 3 = green; 4 = blue; 5 = black)
-This value cannot be ommitted (it requires a value).

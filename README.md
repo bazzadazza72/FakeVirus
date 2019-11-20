@@ -1,6 +1,6 @@
 This is the readme file for FakeVirus. It is recommended that you read it entirely so you know what goes on.
 
-Make sure you extract everything from the archive, the offline installer won't work properly if you don't.
+It is an exact (with some slight differences) copy from the readme file that is included in the compiled archive.
 
 ---------- How to install ----------
 
